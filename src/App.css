@@ -1,0 +1,21 @@
+/* body{
+    margin: 0;
+    padding: 0;
+}
+.tripYujik{
+    padding: 15px;
+    box-shadow: 0 3.2px 7.2px 0 rgb(0 0 0 / 13%), 0 0.6px 1.8px 0 rgb(0 0 0 / 11%);}
+.tripYujik b{
+    font-size: 30px;
+    font-weight: 600;
+}
+input[type=date] {
+    text-align: left;
+  }
+  
+  input[type="date"]:focus:before {
+    content: '' !important;
+  }
+  .tripYujik p{
+    margin-bottom: 5px !important;
+  } */
